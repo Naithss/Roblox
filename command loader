@@ -1,3 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Naithss/RobloxCP/main/Command.lua'))()
--- currently not working
-print("NOT WORKINGGG")
